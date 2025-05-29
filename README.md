@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Japanese 
 - 📫 How to reach me : sumit12052004@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Bananas are berries, but strawberries aren't! 🍌🍓
+- ⚡ Fun fact: Bananas are berries, but strawberries aren't! 🍌🍓 
 
 <!---
 drop04/drop04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
